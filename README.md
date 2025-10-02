@@ -1,15 +1,5 @@
 ## Comencem!
 
-El primer que s'ha de fer és instal·lar el vite per tenir-lo llest per utilitzar-lo en la resta de projectes
+Partint com a base [https://dani-cirvianum.gitbook.io/sass.vite/](https://dani-cirvianum.gitbook.io/sass.vite/personalitzacio-de-bootstrap-amb-sass-i-vite), personalitza el tema de bootstrap i crea una petita pàgina web utilitzant aquest exemples.
+Et pot servir com a base el pdf bootstrap_showcase.pdf creat en tasques anteriors.
 
-## Instal·lació de Vite
-
-- Utilitzant nopm, inicialitzem un projecte nou amb Vite
-
-   ```bash
-   npm install vite@latest nom-projecte
-   cd nom-projecte
-   npm install
-   ```
-
-   Això instal·larà vite per defecte a la màquina, escollint les opcions que ens interessin
